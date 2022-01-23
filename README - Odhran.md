@@ -16,3 +16,4 @@ UI/UX wise I really wanted to try out a stripped down interface with a high colo
 - Better colour contrast
 - Better loading animation
 - Better favicon
+- Find source of the component will mount errors, using functional components so assuming its part of a node module
