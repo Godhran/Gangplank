@@ -1,0 +1,7 @@
+export const SET_LOADING = "SET_LOADING";
+export const SET_FEATURES = "SET_FEATURES";
+export const SET_POINTS_IN_VIEW = "SET_POINTS_IN_VIEW";
+export const SET_FILTER = "SET_FILTER";
+export const SET_MATERIALS = "SET_MATERIALS";
+export const SET_BOUNDING_BOX = "SET_BOUNDING_BOX";
+
